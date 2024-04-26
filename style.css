@@ -243,9 +243,6 @@ body {
     font-size: 32px;
     text-align: center;
 }
-.title-gg {
-    font-size: 24px;
-}
 .P2-img {
     display: none;
 }
@@ -267,10 +264,6 @@ body {
 }
 .Pricing-list {
     margin-top:40px;
-}
-.title-gg {
-    text-align: start;
-    margin-left: 20px;
 }
 .End {
     background-color: rgba(16, 16, 16, 1);
@@ -309,6 +302,11 @@ body {
 }
 .Destination-steps {
     align-items: center;
+}
+.title-gg {
+    text-align: start;
+    margin-left: 20px;
+    font-size: 24px;
 }
     }
 /* 601px-1028px screen */
@@ -369,11 +367,6 @@ body {
 .Pricing-list {
     margin-top:40px;
 }
-.title-gg {
-    text-align: start;
-    margin-left: 20px;
-    font-size: 24px;
-}
 .End {
     background-color: rgba(16, 16, 16, 1);
     padding: 40px 30px;
@@ -411,5 +404,10 @@ body {
 }
 .Destination-steps {
     align-items: center;
+}
+.title-gg {
+    text-align: start;
+    margin-left: 20px;
+    font-size: 24px;
 }
 }
